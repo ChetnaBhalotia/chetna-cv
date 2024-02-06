@@ -1,1 +1,1 @@
-# chetna-cv
+# chetna-resume
